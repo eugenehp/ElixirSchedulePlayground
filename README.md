@@ -45,6 +45,6 @@ iex(1)> ElixirSchedulePlayground.test "{\"tuesday\":[\"0:10-4:33\",\"12:10-23:59
 
 #License 
 
-© 2015 Eugene Hauptmann
+© 2015-2026 Eugene Hauptmann
 
 MIT
